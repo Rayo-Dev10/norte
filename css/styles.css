@@ -1,0 +1,10 @@
+/* Estilos base para Vence Hoy */
+
+body {
+  @apply font-sans;
+}
+
+#app {
+  max-width: 640px;
+  margin: 0 auto;
+}
